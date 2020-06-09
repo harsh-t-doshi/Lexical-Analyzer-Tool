@@ -1,0 +1,15 @@
+/* TEXT FILE */
+#include<stdio.h>
+double b = c++;
+String str = "CSE 681";
+for(int i = 0; i<= 8 ; i++)
+{
+Console.WriteLine("CSE 681");
+}
+//This is a C comment 
+
+for(int j=0;j<=9;j++)
+{
+Console.Write("Hello");
+}
+	 

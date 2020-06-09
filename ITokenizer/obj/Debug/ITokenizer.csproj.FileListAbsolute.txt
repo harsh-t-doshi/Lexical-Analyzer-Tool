@@ -1,0 +1,11 @@
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenizer\bin\Debug\ITokenizer.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenizer\bin\Debug\ITokenizer.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.csprojAssemblyReference.cache
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenizer\bin\Debug\ITokenizer.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenizer\bin\Debug\ITokenizer.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.csprojAssemblyReference.cache
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenizer\obj\Debug\ITokenizer.pdb

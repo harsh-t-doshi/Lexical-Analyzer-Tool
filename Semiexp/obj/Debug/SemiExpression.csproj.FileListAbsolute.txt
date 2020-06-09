@@ -1,0 +1,29 @@
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\obj\Debug\SemiExpression.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\Semiexp.exe.config
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\Semiexp.exe
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\Semiexp.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\ITokenCollection.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\Tokenizer.exe
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\ITokenizer.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\ITokenCollection.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\Tokenizer.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\Tokenizer.exe.config
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\bin\Debug\ITokenizer.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\obj\Debug\SemiExpression.csprojAssemblyReference.cache
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\obj\Debug\SemiExpression.csproj.CopyComplete
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\obj\Debug\Semiexp.exe
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Semiexp\obj\Debug\Semiexp.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\Semiexp.exe.config
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\Semiexp.exe
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\Semiexp.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\ITokenCollection.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\Tokenizer.exe
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\ITokenizer.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\ITokenCollection.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\Tokenizer.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\Tokenizer.exe.config
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\bin\Debug\ITokenizer.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\obj\Debug\SemiExpression.csprojAssemblyReference.cache
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\obj\Debug\SemiExpression.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\obj\Debug\Semiexp.exe
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Semiexp\obj\Debug\Semiexp.pdb

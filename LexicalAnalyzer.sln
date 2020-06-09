@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestUnit", "LexicalAnalyzer\AutomatedTestUnit.csproj", "{6328A92E-F711-4F9D-A68A-7668F418E77E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemiExpression", "Semiexp\SemiExpression.csproj", "{DBD5769D-5631-4593-AC7E-A71E07526956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokenizer", "Tokenizer\Tokenizer.csproj", "{12D31889-CA5A-4AEE-BBB5-DC53BEEB582A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InputFile", "InputFile", "{C9353FEE-A53D-4BE3-A8A6-A55B7FC0EE71}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile2.txt = TextFile2.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITokenCollection", "ITokenCollection\ITokenCollection.csproj", "{E7613B97-8E75-43D1-838E-53F9A1F66F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITokenizer", "ITokenizer\ITokenizer.csproj", "{74C5E0F0-CF76-4699-80E9-44B387A0C601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6328A92E-F711-4F9D-A68A-7668F418E77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6328A92E-F711-4F9D-A68A-7668F418E77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6328A92E-F711-4F9D-A68A-7668F418E77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6328A92E-F711-4F9D-A68A-7668F418E77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD5769D-5631-4593-AC7E-A71E07526956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD5769D-5631-4593-AC7E-A71E07526956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD5769D-5631-4593-AC7E-A71E07526956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD5769D-5631-4593-AC7E-A71E07526956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D31889-CA5A-4AEE-BBB5-DC53BEEB582A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D31889-CA5A-4AEE-BBB5-DC53BEEB582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D31889-CA5A-4AEE-BBB5-DC53BEEB582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D31889-CA5A-4AEE-BBB5-DC53BEEB582A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7613B97-8E75-43D1-838E-53F9A1F66F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7613B97-8E75-43D1-838E-53F9A1F66F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7613B97-8E75-43D1-838E-53F9A1F66F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7613B97-8E75-43D1-838E-53F9A1F66F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C5E0F0-CF76-4699-80E9-44B387A0C601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C5E0F0-CF76-4699-80E9-44B387A0C601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C5E0F0-CF76-4699-80E9-44B387A0C601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C5E0F0-CF76-4699-80E9-44B387A0C601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B56ED67-2D0D-4046-B353-E046B7028CD9}
+	EndGlobalSection
+EndGlobal

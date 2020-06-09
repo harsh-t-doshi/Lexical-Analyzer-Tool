@@ -1,0 +1,11 @@
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenCollection\bin\Debug\ITokenCollection.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenCollection\bin\Debug\ITokenCollection.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.csprojAssemblyReference.cache
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenCollection\bin\Debug\ITokenCollection.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenCollection\bin\Debug\ITokenCollection.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.csprojAssemblyReference.cache
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\ITokenCollection\obj\Debug\ITokenCollection.pdb

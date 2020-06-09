@@ -1,0 +1,19 @@
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\bin\Debug\ITokenizer.dll
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\bin\Debug\ITokenizer.pdb
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.csprojAssemblyReference.cache
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.csproj.CopyComplete
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\Harsh Doshi\source\repos\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\bin\Debug\ITokenizer.dll
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\bin\Debug\ITokenizer.pdb
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.csprojAssemblyReference.cache
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\harsh\OneDrive\Documents\SMA\LexicalAnalyzer\Tokenizer\obj\Debug\Tokenizer.pdb
